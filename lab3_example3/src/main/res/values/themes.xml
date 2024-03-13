@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Kvetkovsky_labs" parent="Theme.AppCompat.DayNight.DarkActionBar">
+    </style>
+    <style name="Theme.Kvetkovsky_labs" parent="Base.Theme.Kvetkovsky_labs" />
+</resources>

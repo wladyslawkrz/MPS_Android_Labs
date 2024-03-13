@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab3_kvetkovsky_example_2</string>
+    <string name="ext_menu">расширенное меню</string>
+    <string name="toolbar_title">Лаб 3</string>
+</resources>

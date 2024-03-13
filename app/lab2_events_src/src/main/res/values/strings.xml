@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab2_events_src</string>
+    <string name="initial_message">Initial message</string>
+    <string name="tag">Controls</string>
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+</resources>

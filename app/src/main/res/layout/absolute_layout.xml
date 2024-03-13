@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="307dp"
+        android:layout_y="8dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="82dp"
+        android:layout_y="545dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="227dp"
+        android:layout_y="163dp"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="157dp"
+        android:layout_y="344dp"
+        android:text="Button" />
+
+    <Switch
+        android:id="@+id/switch5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="10dp"
+        android:layout_y="695dp"
+        android:text="Switch"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+</AbsoluteLayout>

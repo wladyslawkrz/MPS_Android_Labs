@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab3 Task</string>
+    <string name="initial_message">Initial message</string>
+    <string name="tag">Controls</string>
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+    <string name="about_program">О програме</string>
+    <string name="about_author">Об авторе</string>
+    <string name="exit">Выйти</string>
+    <string name="back">Вернуться</string>
+    <string name="secret">Секретно</string>
+    <string name="additional">Дополнительно</string>
+    <string name="msg_back">Click on Back</string>
+    <string name="msg_next">Click on Next</string>
+    <string name="about_program_text">Приложение, разработанное в ходе выполнения лабораторных работ номер 2 и 3</string>
+    <string name="about_author_text">Приложение разработал студент гр. АСОИ-201, Кветковский Владислав</string>
+    <string name="additional_info">Тот, кто смотрит это, находится в аудитории 409/2</string>
+</resources>

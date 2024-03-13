@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kvetkovsky_labs" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="colorControlNormal">@color/material_dynamic_neutral40</item>
+
+    </style>
+    <style name="Theme.Kvetkovsky_labs" parent="Base.Theme.Kvetkovsky_labs" />
+</resources>

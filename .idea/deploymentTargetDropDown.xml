@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.lab2_events_src">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\fl4ck\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-06T21:55:31.730710600Z" />
+        </State>
+      </entry>
+      <entry key="app.lab3_menus">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\fl4ck\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-08T14:45:16.498556200Z" />
+        </State>
+      </entry>
+      <entry key="lab3">
+        <State />
+      </entry>
+      <entry key="lab3_example3">
+        <State />
+      </entry>
+      <entry key="lab3_kvetkovsky">
+        <State />
+      </entry>
+      <entry key="lab3_kvetkovsky_example_1">
+        <State />
+      </entry>
+      <entry key="lab3_kvetkovsky_example_2">
+        <State />
+      </entry>
+      <entry key="lab3_task">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
